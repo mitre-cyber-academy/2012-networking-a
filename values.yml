@@ -1,0 +1,6 @@
+name: "Confused Highway Engineers"
+description: |
+  So, it’s bad enough when we let those highway engineers work on our roads. We get gridlock, accidents, and all kinds of overlong red lights. Now, they let them onto our network! This (link) is the kind of [traffic](http://$static_file_server/na-7269e30b3ce1434c97c2254d201ebef9/challenge.pcap) we get. Can you flag down some help for them?
+  
+  MD5: 66dac3855e269ad512d9070f1f892cc7
+flag: "MCA-20DFF3A1"
